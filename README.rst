@@ -1,12 +1,9 @@
-Sample Module Repository
+Python  comments
 ========================
 
-This simple project is an example repo for Python projects.
+Extract statistics about the relation between good code and comments ( In the python world).
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+Goal is to download the best python projects and run some basic analyzer on them.
 
----------------
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
 
-✨🍰✨
